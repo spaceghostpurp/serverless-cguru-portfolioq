@@ -1,0 +1,16 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   favicon.ico
+#	new file:   images/example1.png
+#	new file:   images/example2.png
+#	new file:   images/example3.png
+#	new file:   index.html
+#	new file:   styles/main.css
+#
+
